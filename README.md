@@ -58,5 +58,4 @@ The final cleaned table `layoffs_staging2` includes:
 - Standardized and consistent data entries
 - Only relevant and complete records
 
-## 📁 Project Structure
 
